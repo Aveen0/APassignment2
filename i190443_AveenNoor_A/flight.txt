@@ -1,0 +1,12 @@
+11
+A12,21-10-2021,09:30,Karachi,Islamabad,true,A350,Air Bus,325,12000
+A13,19-10-2021,14:00,Lahore,Islamabad,false,A220,Air Bus,200,11000
+A14,29-09-2021,01:00,Lahore,Karachi,true,A330,Air Bus,300,18000
+A15,11-09-2021,09:00,Islamabad,Karachi,true,B737,Boeing,400,16000
+A16,21-09-2021,18:30,Lahore,Dubai,false,B747,Boeing,425,52000
+A17,06-09-2021,11:30,Karachi,Quetta,true,A350,Air Bus,325,12000
+A18,21-10-2021,15:00,Lahore,Skardu,false,B787,Boeing,325,14000
+A19,01-10-2021,19:00,Karachi,Gilgit,false,A220,Air Bus,200,15000
+A20,19-10-2021,09:00,Lahore,Islamabad,true,A330,Air Bus,300,8000
+A21,19-10-2021,08:30,Islamabad,Lahore,true,B737,Boeing,400,9000
+A22,31-10-2021,12:00,Karachi,Lahore,true,B747,Boeing,425,15000

@@ -1,0 +1,7 @@
+6
+1,ali,male,26,johar town lahore,A12345,12345
+2,zainab,female,29,bahria town lahore,B52458,12345
+3,zain,male,31,saddar lahore,C96522,12345
+4,kashif,male,21,dha lahore,D12365,12345
+5,salman,male,25,ferozpure road lahore,D45112,12345
+6,fozia,female,28,wapda town lahore,E78245,12345
